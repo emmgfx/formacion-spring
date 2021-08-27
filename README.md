@@ -18,4 +18,4 @@ react (`React.Children`, `React.CloneElement`), la notación de puntos, algunas 
 
 ## Resultado
 
-![resultado](./result.png)
+![resultado](./result.gif)
